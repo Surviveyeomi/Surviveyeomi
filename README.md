@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Surviveyeomi'sGithub&fontSize=50&animation=fadeIn&fontAlignY=55&fontColo&fontColor=FFFFFF&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Yeomi'sGithub&fontSize=50&animation=fadeIn&fontAlignY=55&fontColo&fontColor=FFFFFF&color=gradient)
 
 ## GitHub Stats 🌱
 <!-- Light Mode -->
